@@ -1,1 +1,1 @@
-IMAGES/Photo.jpg
+D:\Desktop\linkedin\IMAGES
